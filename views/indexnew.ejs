@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>AI 图分析引擎</title>
+    <link rel="stylesheet" href="stylesheets/style.css">
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'/>
+  </head>
+
+  <body>
+    <div class="my-navbar">
+      <div class="logo">
+        <img src="images/logo.png">
+      </div>
+      <div class="title"> AI 图分析引擎</div>
+    </div>
+
+    <div class="nav-bar">
+      <div class="nav-btn" id="path-search">
+        <div><img src="images/path.png"></div>
+        <span>发现三国</span>
+        <input class="checkbox" type="checkbox" name="nav" data-target="path">
+        <div class="dropdown-container path">
+          <form>
+            <div class="form-group algorithm">
+              <input class="form-control" name="sourceId" placeholder="">
+              <input class="form-control" name="targetId" placeholder="">
+              <button type="submit" class="btn btn-primary pull-right">发现关系</button>
+            </div>
+          </form>
+        </div>
+      </div>
+
+      <div class="nav-btn" id="k-hop">
+        <div><img src="images/khop.png" alt=""></div>
+        <span>亲密战友</span>
+        <input class="checkbox" type="checkbox" name="nav" data-target="khop">
+        <div class="dropdown-container khop">
+          <form>
+            <div class="form-group algorithm">
+              <input class="form-control" name="sourceId" placeholder="">
+              <label>K Value</label>
+              <input class="form-control" name="kValue" placeholder="">
+              <button type="submit" name="action" id="k_hop_submit" value='k_hop_submit' class="btn btn-primary pull-right">亲密战友</button>
+            </div>
+          </form>
+        </div>
+      </div>
+
+      <div class="nav-btn" id="cluster">
+        <div><img src="images/cluster.png"></div>
+        <span>势力集团</span>
+        <input class="checkbox" type="checkbox" name="nav" data-target="cluster">
+        <div class="dropdown-container cluster">
+          <form>
+            <button type="submit" class="btn">势力集团</button>
+          </form>
+        </div>
+      </div>
+
+      <div class="nav-btn" id="property">
+        <div><img src="images/property.png"></div>
+        <span>点兵点将</span>
+        <input class="checkbox" type="checkbox" name="nav" data-target="property">
+        <div class="dropdown-container property">
+          <form>
+            <div>
+              <span id="leadership">
+                <label class="col-xs-4"><input name="on" type="checkbox"> 统御 : </label>
+                <input class="rangeSlider rangeSlider__range" type="range" name="leadershipRange" value="80" min="0" max="100">
+                <span class="rangeSlider__value">0</span>
+                <!-- <input type="range" name="price-max" id="price-max" value="80" min="0" max="100"> -->
+                <!-- <input class="form-control" name="expression" placeholder="表达式，例如 &lt; 50"> -->
+              </span>
+              <span id="force">
+                <label class="col-xs-4"><input name="on" type="checkbox"> 武力 : </label>
+                <input class="rangeSilder rangeSlider__range" type="range" name="forceRange" value="90" value="80" min="0" max="100">
+                <span class="rangeSlider__value">0</span>
+                <!-- <input class="form-control" name="expression" placeholder="表达式，例如 &lt; 50"> -->
+              </span>
+              <span id="intelligence">
+                <label class="col-xs-4"><input name="on" type="checkbox"> 智力 : </label>
+                <input class="rangeSilder rangeSlider__range" type="range" name="intelligenceRange" value="90" value="80" min="0" max="100">
+                <span class="rangeSlider__value">0</span>
+              </span>
+            </div>
+
+            <div>
+              <span id="politics">
+                <label class="col-xs-4"><input name="on" type="checkbox"> 政治 : </label>
+                <input class="rangeSilder rangeSlider__range" type="range" name="politicsRange" value="90" value="80" min="0" max="100">
+                <span class="rangeSlider__value">0</span>
+                <!-- <input class="form-control" name="expression" placeholder="表达式，例如 &lt; 50"> -->
+              </span>
+              <span id="charm">
+                <label class="col-xs-4"><input name="on" type="checkbox"> 魅力 : </label>
+                <input class="rangeSilder rangeSlider__range" type="range" name="charmRange" value="90" value="80" min="0" max="100">
+                <span class="rangeSlider__value">0</span>
+                <!-- <input class="form-control" name="expression" placeholder="表达式，例如 &lt; 50"> -->
+              </span>
+            </div>
+
+            <div>
+              <span id="identity">
+                <label class="col-xs-4"><input name="on" type="checkbox"> 身份 : </label>
+                <label><input type="radio" class="form-inline" name="identity" value="文臣"> 文臣 </label>
+                <label><input type="radio" class="form-inline" name="identity" value="武将"> 武将 </label>
+                <label><input type="radio" class="form-inline" name="identity" value="主公"> 主公 </label>
+              </span>
+            </div>
+            <div>
+              <span class="form-group">
+                <button type="submit" class="btn btn-primary pull-right">点兵点将</button>
+              </span>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <section class="graph"></section>
+      <!-- <div id="info-popup" class="well info-popup">
+        <table class="table table-bordered table-condense table-striped">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Value</th>
+            </tr>
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
+      </div> -->
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <!-- jQuery Popup Overlay -->
+    <script src="js/jquery.popupoverlay.js"></script>
+
+    <!-- <script src="js/d3.v4.min.js"></script> -->
+    <!--script src="js/d3-force-cluster@lastest"></script>  -->
+    <!-- <script src="http://d3js.org/queue.v1.min.js"></script>  -->
+    <script src="http://d3js.org/d3.v2.js"></script>
+
+    <script src="js/app2.js"></script>
+    <script src="js/echarts.js"></script>
+    <script src="js/cluster-d3.js"></script>
+     <!-- <script src="js/cluster1.js"></script>       -->
+    <script src="js/initGraph.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/khopGraph.js"></script>
+    <script src="js/pathGraph.js"></script>
+    <script src="js/propertyGraph.js"></script>
+
+  </body>
+</html>

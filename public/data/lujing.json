@@ -1,0 +1,7041 @@
+{
+    "edges": [
+        {
+            "color": [
+                13
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "62"
+                    ]
+                }
+            ],
+            "source": "周瑜",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                38
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "20"
+                    ]
+                }
+            ],
+            "source": "马忠",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                40
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "43"
+                    ]
+                }
+            ],
+            "source": "徐盛",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                48
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "24"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "韩浩"
+        },
+        {
+            "color": [
+                47
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "13"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "糜芳"
+        },
+        {
+            "color": [
+                1
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "173"
+                    ]
+                }
+            ],
+            "source": "曹操",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                3
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "16"
+                    ]
+                }
+            ],
+            "source": "司马懿",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                41
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "23"
+                    ]
+                }
+            ],
+            "source": "刘封",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                43
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "27"
+                    ]
+                }
+            ],
+            "source": "丁奉",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                45
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "47"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "关索"
+        },
+        {
+            "color": [
+                46
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "44"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "马遵"
+        },
+        {
+            "color": [
+                44
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "53"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "阿会喃"
+        },
+        {
+            "color": [
+                21
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "13"
+                    ]
+                }
+            ],
+            "source": "夏侯渊",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                18
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "37"
+                    ]
+                }
+            ],
+            "source": "张任",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                46
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "11"
+                    ]
+                }
+            ],
+            "source": "马遵",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                12
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "66"
+                    ]
+                }
+            ],
+            "source": "王平",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                31
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "24"
+                    ]
+                }
+            ],
+            "source": "孟达",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                34
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "25"
+                    ]
+                }
+            ],
+            "source": "董荼那",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                8
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "50"
+                    ]
+                }
+            ],
+            "source": "袁绍",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                43
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "43"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "丁奉"
+        },
+        {
+            "color": [
+                36
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "53"
+                    ]
+                }
+            ],
+            "source": "张翼",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                42
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "15"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "韩德"
+        },
+        {
+            "color": [
+                14
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "36"
+                    ]
+                }
+            ],
+            "source": "孙乾",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                2
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "143"
+                    ]
+                }
+            ],
+            "source": "张飞",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                4
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "46"
+                    ]
+                }
+            ],
+            "source": "关羽",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                28
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "17"
+                    ]
+                }
+            ],
+            "source": "吴懿",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                49
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "19"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "金环三结"
+        },
+        {
+            "color": [
+                29
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "143"
+                    ]
+                }
+            ],
+            "source": "邓芝",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                30
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "19"
+                    ]
+                }
+            ],
+            "source": "张鲁",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                11
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "42"
+                    ]
+                }
+            ],
+            "source": "马岱",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                7
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "28"
+                    ]
+                }
+            ],
+            "source": "孙权",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                33
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "28"
+                    ]
+                }
+            ],
+            "source": "郭淮",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                37
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "25"
+                    ]
+                }
+            ],
+            "source": "简雍",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                15
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "135"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "黄忠"
+        },
+        {
+            "color": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "11"
+                    ]
+                }
+            ],
+            "source": "张承",
+            "target": "诸葛亮"
+        },
+        {
+            "color": [
+                16
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "65"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "刘表"
+        },
+        {
+            "color": [
+                39
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "13"
+                    ]
+                }
+            ],
+            "source": "关平",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                14
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "21"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "孙乾"
+        },
+        {
+            "color": [
+                10
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "359"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                11
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "356"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "马岱"
+        },
+        {
+            "color": [
+                12
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "355"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "王平"
+        },
+        {
+            "color": [
+                13
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "340"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "周瑜"
+        },
+        {
+            "color": [
+                6
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "101"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "马超"
+        },
+        {
+            "color": [
+                7
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "249"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "孙权"
+        },
+        {
+            "color": [
+                8
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "36"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "袁绍"
+        },
+        {
+            "color": [
+                9
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "402"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "孟获"
+        },
+        {
+            "color": [
+                3
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "526"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "司马懿"
+        },
+        {
+            "color": [
+                4
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "233"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "关羽"
+        },
+        {
+            "color": [
+                5
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        "怀疑"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "468"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "魏延"
+        },
+        {
+            "color": [
+                0
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        "主公"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "677"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "刘备"
+        },
+        {
+            "color": [
+                1
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "594"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "曹操"
+        },
+        {
+            "color": [
+                2
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "294"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "张飞"
+        },
+        {
+            "color": [
+                49
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "20"
+                    ]
+                }
+            ],
+            "source": "金环三结",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                27
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "19"
+                    ]
+                }
+            ],
+            "source": "曹仁",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                25
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "37"
+                    ]
+                }
+            ],
+            "source": "关兴",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                23
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "21"
+                    ]
+                }
+            ],
+            "source": "曹真",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                17
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "54"
+                    ]
+                }
+            ],
+            "source": "夏侯惇",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                45
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "12"
+                    ]
+                }
+            ],
+            "source": "关索",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                20
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "20"
+                    ]
+                }
+            ],
+            "source": "姜维",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                6
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "32"
+                    ]
+                }
+            ],
+            "source": "马超",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                15
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "137"
+                    ]
+                }
+            ],
+            "source": "黄忠",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                32
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "39"
+                    ]
+                }
+            ],
+            "source": "曹洪",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                41
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "39"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "刘封"
+        },
+        {
+            "color": [
+                0
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "398"
+                    ]
+                }
+            ],
+            "source": "刘备",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                40
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "48"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "徐盛"
+        },
+        {
+            "color": [
+                39
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "28"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "关平"
+        },
+        {
+            "color": [
+                37
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "14"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "简雍"
+        },
+        {
+            "color": [
+                38
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "105"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "马忠"
+        },
+        {
+            "color": [
+                47
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "11"
+                    ]
+                }
+            ],
+            "source": "糜芳",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                36
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "116"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "张翼"
+        },
+        {
+            "color": [
+                33
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "123"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "郭淮"
+        },
+        {
+            "color": [
+                34
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "118"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "董荼那"
+        },
+        {
+            "color": [
+                26
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "13"
+                    ]
+                }
+            ],
+            "source": "庞统",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                35
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "28"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "李典"
+        },
+        {
+            "color": [
+                30
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "26"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "张鲁"
+        },
+        {
+            "color": [
+                24
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "68"
+                    ]
+                }
+            ],
+            "source": "张苞",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                31
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "134"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "孟达"
+        },
+        {
+            "color": [
+                32
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "30"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "曹洪"
+        },
+        {
+            "color": [
+                22
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "29"
+                    ]
+                }
+            ],
+            "source": "糜竺",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                29
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "88"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "邓芝"
+        },
+        {
+            "color": [
+                42
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "74"
+                    ]
+                }
+            ],
+            "source": "韩德",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                44
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "29"
+                    ]
+                }
+            ],
+            "source": "阿会喃",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                28
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "49"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "吴懿"
+        },
+        {
+            "color": [
+                27
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "76"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "曹仁"
+        },
+        {
+            "color": [
+                16
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "20"
+                    ]
+                }
+            ],
+            "source": "刘表",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                25
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "132"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "关兴"
+        },
+        {
+            "color": [
+                48
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "19"
+                    ]
+                }
+            ],
+            "source": "韩浩",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                19
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "101"
+                    ]
+                }
+            ],
+            "source": "徐晃",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                26
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "23"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "庞统"
+        },
+        {
+            "color": [
+                23
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "182"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "曹真"
+        },
+        {
+            "color": [
+                9
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "42"
+                    ]
+                }
+            ],
+            "source": "孟获",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                24
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "132"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "张苞"
+        },
+        {
+            "color": [
+                5
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "106"
+                    ]
+                }
+            ],
+            "source": "魏延",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                21
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "26"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "夏侯渊"
+        },
+        {
+            "color": [
+                22
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "36"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "糜竺"
+        },
+        {
+            "color": [
+                20
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        "弟子"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "232"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "姜维"
+        },
+        {
+            "color": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "17"
+                    ]
+                }
+            ],
+            "source": "赵云",
+            "target": "程武"
+        },
+        {
+            "color": [
+                35
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "37"
+                    ]
+                }
+            ],
+            "source": "李典",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                17
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "85"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "夏侯惇"
+        },
+        {
+            "color": [
+                18
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "57"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "张任"
+        },
+        {
+            "color": [
+                19
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "39"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "徐晃"
+        }
+    ],
+    "outputs": [
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "刘备"
+            },
+            {
+                "source": "刘备",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "曹操"
+            },
+            {
+                "source": "曹操",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "张飞"
+            },
+            {
+                "source": "张飞",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "司马懿"
+            },
+            {
+                "source": "司马懿",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "关羽"
+            },
+            {
+                "source": "关羽",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "魏延"
+            },
+            {
+                "source": "魏延",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "马超"
+            },
+            {
+                "source": "马超",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "孙权"
+            },
+            {
+                "source": "孙权",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "袁绍"
+            },
+            {
+                "source": "袁绍",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "孟获"
+            },
+            {
+                "source": "孟获",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "马岱"
+            },
+            {
+                "source": "马岱",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "王平"
+            },
+            {
+                "source": "王平",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "周瑜"
+            },
+            {
+                "source": "周瑜",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "孙乾"
+            },
+            {
+                "source": "孙乾",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "黄忠"
+            },
+            {
+                "source": "黄忠",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "刘表"
+            },
+            {
+                "source": "刘表",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "夏侯惇"
+            },
+            {
+                "source": "夏侯惇",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "张任"
+            },
+            {
+                "source": "张任",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "徐晃"
+            },
+            {
+                "source": "徐晃",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "姜维"
+            },
+            {
+                "source": "姜维",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "夏侯渊"
+            },
+            {
+                "source": "夏侯渊",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "糜竺"
+            },
+            {
+                "source": "糜竺",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "曹真"
+            },
+            {
+                "source": "曹真",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "张苞"
+            },
+            {
+                "source": "张苞",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "关兴"
+            },
+            {
+                "source": "关兴",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "庞统"
+            },
+            {
+                "source": "庞统",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "曹仁"
+            },
+            {
+                "source": "曹仁",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "吴懿"
+            },
+            {
+                "source": "吴懿",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "邓芝"
+            },
+            {
+                "source": "邓芝",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "张鲁"
+            },
+            {
+                "source": "张鲁",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "孟达"
+            },
+            {
+                "source": "孟达",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "曹洪"
+            },
+            {
+                "source": "曹洪",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "郭淮"
+            },
+            {
+                "source": "郭淮",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "董荼那"
+            },
+            {
+                "source": "董荼那",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "李典"
+            },
+            {
+                "source": "李典",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "张翼"
+            },
+            {
+                "source": "张翼",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "简雍"
+            },
+            {
+                "source": "简雍",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "马忠"
+            },
+            {
+                "source": "马忠",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "关平"
+            },
+            {
+                "source": "关平",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "徐盛"
+            },
+            {
+                "source": "徐盛",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "刘封"
+            },
+            {
+                "source": "刘封",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "韩德"
+            },
+            {
+                "source": "韩德",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "丁奉"
+            },
+            {
+                "source": "丁奉",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "阿会喃"
+            },
+            {
+                "source": "阿会喃",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "关索"
+            },
+            {
+                "source": "关索",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "马遵"
+            },
+            {
+                "source": "马遵",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "糜芳"
+            },
+            {
+                "source": "糜芳",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "韩浩"
+            },
+            {
+                "source": "韩浩",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ],
+        [
+            {
+                "source": "张承",
+                "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "金环三结"
+            },
+            {
+                "source": "金环三结",
+                "target": "赵云"
+            },
+            {
+                "source": "赵云",
+                "target": "程武"
+            }
+        ]
+    ],
+    "result": "success",
+    "vertices": [
+        {
+            "id": "刘备",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "刘备"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "956"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "75"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "74"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "77"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "78"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "100"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "62"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "0"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "曹操",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "曹操"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "934"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "90"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "82"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "98"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "94"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "99"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "65"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "1"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "0"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "张飞",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "张飞"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "348"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "84"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "98"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "34"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "25"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "45"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "54"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "诸葛亮",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "诸葛亮"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "988"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "90"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "40"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "100"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "97"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "91"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "53"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "关索",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "关索"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "10"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "73"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "87"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "51"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "46"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "73"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "39"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "司马懿",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "司马懿"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "221"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "98"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "60"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "97"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "96"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "81"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "72"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "1"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "关羽",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "关羽"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "269"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "95"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "98"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "81"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "61"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "97"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "57"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "魏延",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "魏延"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "211"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "81"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "91"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "69"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "47"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "47"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "59"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "马超",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "马超"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "185"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "86"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "97"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "45"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "29"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "83"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "50"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "孙权",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "孙权"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "264"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "77"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "65"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "88"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "92"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "98"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "70"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "3"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "0"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "袁绍",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "袁绍"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "190"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "81"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "68"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "70"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "72"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "91"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "48"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "4"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "0"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "孟获",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "孟获"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "78"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "76"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "86"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "44"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "45"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "79"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "59"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "赵云",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "赵云"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "255"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "91"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "97"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "82"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "64"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "87"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "61"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "马岱",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "马岱"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "127"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "81"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "85"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "53"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "51"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "67"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "63"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "王平",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "王平"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "88"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "82"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "79"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "81"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "58"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "52"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "56"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "周瑜",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "周瑜"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "217"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "97"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "79"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "98"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "87"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "90"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "35"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "3"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "马遵",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "马遵"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "12"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "43"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "50"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "52"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "60"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "40"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "64"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "1"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "韩浩",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "韩浩"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "13"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "69"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "73"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "66"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "88"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "62"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "54"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "1"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "孙乾",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "孙乾"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "59"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "41"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "35"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "78"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "84"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "77"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "50"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "黄忠",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "黄忠"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "168"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "85"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "94"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "57"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "49"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "88"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "74"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "糜芳",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "糜芳"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "32"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "56"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "59"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "34"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "26"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "41"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "53"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "刘表",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "刘表"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "119"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "48"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "33"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "71"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "80"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "74"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "66"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "5"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "0"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "夏侯惇",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "夏侯惇"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "115"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "89"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "90"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "55"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "67"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "82"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "64"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "1"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "张任",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "张任"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "47"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "87"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "84"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "86"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "59"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "75"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "45"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "9"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "徐晃",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "徐晃"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "114"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "87"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "88"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "78"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "47"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "70"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "63"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "1"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "姜维",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "姜维"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "179"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "89"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "88"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "97"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "65"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "97"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "62"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "夏侯渊",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "夏侯渊"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "88"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "85"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "91"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "51"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "60"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "80"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "57"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "1"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "糜竺",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "糜竺"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "48"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "39"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "31"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "77"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "83"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "81"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "55"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "曹真",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "曹真"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "71"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "85"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "76"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "67"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "70"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "89"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "46"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "1"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "张苞",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "张苞"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "81"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "75"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "86"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "48"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "45"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "67"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "31"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "关兴",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "关兴"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "97"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "76"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "85"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "59"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "57"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "70"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "35"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "庞统",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "庞统"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "62"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "76"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "37"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "98"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "85"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "56"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "35"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "曹仁",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "曹仁"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "86"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "87"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "86"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "54"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "46"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "75"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "55"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "1"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "吴懿",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "吴懿"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "26"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "82"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "74"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "66"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "68"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "87"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "72"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "邓芝",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "邓芝"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "44"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "73"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "50"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "81"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "84"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "82"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "69"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "金环三结",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "金环三结"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "7"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "65"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "77"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "23"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "18"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "42"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "33"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "13"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "张鲁",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "张鲁"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "49"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "48"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "28"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "73"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "76"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "83"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "74"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "14"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "孟达",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "孟达"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "74"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "75"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "74"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "78"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "65"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "64"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "56"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "曹洪",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "曹洪"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "76"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "81"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "80"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "45"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "35"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "58"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "63"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "1"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "郭淮",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "郭淮"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "61"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "85"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "78"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "88"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "76"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "77"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "68"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "1"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "董荼那",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "董荼那"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "23"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "68"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "74"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "34"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "37"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "49"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "36"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "13"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "李典",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "李典"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "65"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "78"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "77"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "87"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "73"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "64"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "42"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "1"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "张翼",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "张翼"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "70"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "76"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "75"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "72"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "71"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "69"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "76"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "简雍",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "简雍"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "29"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "29"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "34"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "75"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "69"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "64"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "61"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "马忠",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "马忠"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "40"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "67"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "61"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "60"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "37"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "48"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "36"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "关平",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "关平"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "62"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "77"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "81"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "68"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "59"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "67"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "33"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "徐盛",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "徐盛"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "53"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "85"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "80"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "86"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "64"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "73"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "57"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "3"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "程武",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "程武"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "1"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "56"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "38"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "76"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "69"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "37"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "64"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "1"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "刘封",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "刘封"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "49"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "75"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "79"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "45"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "48"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "75"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "32"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "2"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "韩德",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "韩德"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "7"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "62"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "76"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "30"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "14"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "55"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "57"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "1"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "丁奉",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "丁奉"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "44"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "81"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "80"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "72"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "54"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "58"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "81"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "3"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "张承",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "张承"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "1"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "77"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "70"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "79"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "73"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "74"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "66"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "3"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "阿会喃",
+            "label": "sangokushi",
+            "properties": [
+                {
+                    "property_name": "name",
+                    "property_value": [
+                        "阿会喃"
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "14"
+                    ]
+                },
+                {
+                    "property_name": "gener",
+                    "property_value": [
+                        "男"
+                    ]
+                },
+                {
+                    "property_name": "leadership",
+                    "property_value": [
+                        "65"
+                    ]
+                },
+                {
+                    "property_name": "force",
+                    "property_value": [
+                        "75"
+                    ]
+                },
+                {
+                    "property_name": "intelligence",
+                    "property_value": [
+                        "31"
+                    ]
+                },
+                {
+                    "property_name": "politics",
+                    "property_value": [
+                        "34"
+                    ]
+                },
+                {
+                    "property_name": "charm",
+                    "property_value": [
+                        "45"
+                    ]
+                },
+                {
+                    "property_name": "life",
+                    "property_value": [
+                        "35"
+                    ]
+                },
+                {
+                    "property_name": "country",
+                    "property_value": [
+                        "13"
+                    ]
+                },
+                {
+                    "property_name": "identity",
+                    "property_value": [
+                        "1"
+                    ]
+                }
+            ]
+        }
+    ]
+}

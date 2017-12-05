@@ -1,0 +1,21 @@
+{"result":"success",
+	"vertices":
+		[
+			{"id":"张承","label":"sangokushi"},
+			{"id":"刘备","label":"sangokushi"},
+			{"id":"诸葛亮","label":"sangokushi"},
+			{"id":"司马懿","label":"sangokushi"},
+			{"id":"魏延","label":"sangokushi"},
+			{"id":"曹操","label":"sangokushi"}
+		
+	],
+	"edges":
+		[
+			{"label":"relation","source":"张承","target":"诸葛亮"},
+			{"label":"relation","source":"诸葛亮","target":"刘备"},
+			{"label":"relation","source":"诸葛亮","target":"曹操"},
+			{"label":"relation","source":"诸葛亮","target":"司马懿"},
+			{"label":"relation","source":"诸葛亮","target":"魏延"}
+		]
+	
+}
