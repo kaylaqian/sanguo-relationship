@@ -9,7 +9,7 @@ router.use(bodyParser.json()); // for parsing application/json
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-    res.render('testIndex', { title: 'Express' });
+    res.render('indexnew', { title: 'Express' });
 });
 
 module.exports = router;

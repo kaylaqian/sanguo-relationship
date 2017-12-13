@@ -70,13 +70,15 @@ $(function() {
       $('section').remove();
       $('body').append('<section class="graph"></section>');
       console.log("huatu");
-      drawGraph();
+      // drawGraph();
+      heatmap($('section').get(0), initData);
       // initGraph($('section').get(0), initData);
     },
     error: (error) => {
       console.log(error.message);
     }
   });
+
   $('form').submit(function(event) {
     event.preventDefault();
     if ($(this.parentNode.parentNode).prop('id') == 'k-hop') {
@@ -113,6 +115,49 @@ $(function() {
           console.log(error.message);
         }
       });
+      //subgraph
+    } else if ($(this.parentNode.parentNode).prop('id') == 'input-search') {
+      const data = {};
+      data.command = 'algorithm';
+      data['algorithm_command'] = {
+        'graph_name': 'sanguo',
+        'algorithm_name': 'top_k_path',
+        parameters: [
+          {
+            key: 'x1',
+            value: $('#input-search input[name=x1]').val()
+          },
+          {
+            key: 'x2',
+            value: $('#input-search input[name=x2]').val()
+          },
+          {
+            key: 'y1',
+            value: $('#input-search input[name=y1]').val()
+          },
+             {
+            key: 'y2',
+            value: $('#input-search input[name=y2]').val()
+          },
+        ]
+      }
+      $.ajax('/subgraph', {
+        method: 'POST',
+        data: JSON.stringify(data),
+        dataType: 'json',
+        contentType: 'application/json',
+        success: data => {
+          console.log(data);
+          $('section').remove();
+          $('body').append('<section class="graph"></section>');
+          pathGraph($('section').get(0),data);
+        },
+        error: (error) => {
+          alert("输入正确字符");
+          console.log(error.message);
+        }
+      });
+      //path-search
     } else if ($(this.parentNode.parentNode).prop('id') == 'path-search') {
       const data = {};
       data.command = 'algorithm';

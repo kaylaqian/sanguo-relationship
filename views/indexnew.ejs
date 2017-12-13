@@ -15,6 +15,27 @@
     </div>
 
     <div class="nav-bar">
+      <div class="nav-btn" id="input-search">
+        <div><img src="images/path1.png"></div>
+        <span>发现子图</span>
+        <input class="checkbox" type="checkbox" name="nav" data-target="set">
+        <div class="dropdown-container set">
+          <form>
+            <div class="form-group algorithm">
+              <label>X1: </label>
+              <input class="form-control" id="x1" name="x1" placeholder="">
+              <label>X2: </label>
+              <input class="form-control" id="x2" name="x2" placeholder="">
+              <label>Y1: </label>
+              <input class="form-control" id="y1" name="y1" placeholder="">
+              <label>Y2: </label>
+              <input class="form-control" id="y2" name="y2" placeholder="">
+              <button type="submit" class="btn">输入所选区域</button>
+            </div>
+          </form>
+        </div>
+      </div>
+
       <div class="nav-btn" id="path-search">
         <div><img src="images/path.png"></div>
         <span>发现三国</span>
@@ -31,7 +52,7 @@
       </div>
 
       <div class="nav-btn" id="k-hop">
-        <div><img src="images/khop.png" alt=""></div>
+        <div><img src="images/khop.png"></div>
         <span>亲密战友</span>
         <input class="checkbox" type="checkbox" name="nav" data-target="khop">
         <div class="dropdown-container khop">
@@ -144,6 +165,7 @@
     <script src="js/cluster-d3.js"></script>
      <!-- <script src="js/cluster1.js"></script>       -->
     <script src="js/initGraph.js"></script>
+    <script src="js/heatmap.js"></script>
     <script src="js/main.js"></script>
     <script src="js/khopGraph.js"></script>
     <script src="js/pathGraph.js"></script>
