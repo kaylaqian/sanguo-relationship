@@ -67,10 +67,8 @@ $(function() {
     success: data => {
       console.log(data);
       initData = data;
-      $('section').remove();
-      $('body').append('<section class="graph"></section>');
-      console.log("huatu");
-      // drawGraph();
+      // $('section').remove();
+      // $('body').append('<section class="graph"></section>');
       heatmap($('section').get(0), initData);
       // initGraph($('section').get(0), initData);
     },
@@ -141,16 +139,17 @@ $(function() {
           },
         ]
       }
-      $.ajax('/subgraph', {
+      $.ajax('/pathsearch', {
         method: 'POST',
         data: JSON.stringify(data),
         dataType: 'json',
         contentType: 'application/json',
         success: data => {
           console.log(data);
-          $('section').remove();
-          $('body').append('<section class="graph"></section>');
-          pathGraph($('section').get(0),data);
+          var section=document.createElement('section');
+          section.className='subgraph';
+          document.querySelector('body').appendChild(section);
+          subGraph($('section').get(1),data);
         },
         error: (error) => {
           alert("输入正确字符");
