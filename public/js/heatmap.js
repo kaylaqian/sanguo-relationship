@@ -3,18 +3,17 @@ var yData = [];
 var x = [];
 var y = [];
 function heatmap(containingElement, data) {
-  data.x.forEach(element => {
-    x.push(element);
+  data.nodes.forEach(function(node) {
+    x.push(node.x);
   });
-  data.y.forEach(element => {
-    y.push(element);
+  data.nodes.forEach(function(node) {
+    y.push(node.y);
   });
   // var myChart = echarts.init(containingElement);
   var myChart = echarts.init(containingElement);
   // myChart.showLoading();
   var data = generateData(2, -5, 5);
   myChart.setOption(option = {
-      tooltip: {},
       xAxis: {
           type: 'category',
           data: xData
@@ -25,7 +24,7 @@ function heatmap(containingElement, data) {
       },
       visualMap: {
           min: 0,
-          max: 5,
+          max: 3,
           calculable: true,
           realtime: false,
           inRange: {
@@ -33,14 +32,13 @@ function heatmap(containingElement, data) {
           }
       },
       series: [{
-          name: 'Gaussian',
           type: 'heatmap',
           data: data,
           itemStyle: {
-              emphasis: {
-                  borderColor: '#333',
-                  borderWidth: 1
-              }
+            emphasis: {
+                borderColor: '#333',
+                borderWidth: 1
+            }
           },
           progressive: 1000,
           animation: false
@@ -48,7 +46,6 @@ function heatmap(containingElement, data) {
 
   });
 }
-
 function generateData(theta, min, max) {
   var data = [];
   // var noise = getNoiseHelper();
@@ -71,7 +68,7 @@ function getDensity(width, height) {
   var density = 0;
   for(var i = 0, j = 0; i < x.length, j < y.length; i++, j++) {
     if(width >0 && height > 0) {
-      if(x[i] /24 <= width && x[i] /24 > width-1 && y[j] /24 <= height && y[j] /24 > height-1) {
+      if((x[i] + 2500)/80 <= width && (x[i] + 2500) /80 > width-1 && (y[j] + 1500) /45 <= height && (y[j] + 1500)/45 > height-1) {
         density++;
       }
     }

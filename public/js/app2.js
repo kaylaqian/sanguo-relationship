@@ -7,6 +7,30 @@ $(function() {
   });
 });
 
+////////////////////////////////////////////////////////////////////////////////////////
+/*mouse event position*/
+var press = false;
+
+// The mousedown event is fired when a pointing device button (usually a mouse button) is pressed on an element.
+document.addEventListener('mousedown', function(e) {
+   press = true;
+   console.log('--> Event mousedown x: ' + e.clientX + ', y: ' + e.clientY);
+});
+
+// The mousemove event is fired when a pointing device (usually a mouse) is moved while over an element.
+document.addEventListener('mousemove', function(e) {
+   if (!press) return;
+  //  console.log('--> Event mousemove x: ' + e.clientX + ', y: ' + e.clientY);
+});
+
+// The mouseup event is fired when a pointing device button (usually a mouse button) is released over an element.
+document.addEventListener('mouseup', function(e) {
+   press = false;
+   console.log('--> Event mouseup x: ' + e.clientX + ', y: ' + e.clientY);
+});
+
+/////////////////////////////////////////////////////////////////////////////////////////
+
 /* range slider bar function */
 var rangeSlider = function(){
   var slider = $('.rangeSlider'),
@@ -28,6 +52,10 @@ var rangeSlider = function(){
 
 rangeSlider();
 
+//////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////
 function isChinese(temp)  {
   var re=/[\u4e00-\u9fa5]/;
   if (re.test(temp)) {
@@ -48,6 +76,9 @@ function isJSON(str) {
   }
   console.log('It is not a string!')
 }
+
+//////////////////////////////////////////////////////////////////////////////////////////////////
+
 var initData;
 
 $(function() {
@@ -70,6 +101,8 @@ $(function() {
       // $('section').remove();
       // $('body').append('<section class="graph"></section>');
       heatmap($('section').get(0), initData);
+      // webkit($('section').get(0), initData);
+      // npmGraph($('section').get(0), initData);
       // initGraph($('section').get(0), initData);
     },
     error: (error) => {
@@ -122,21 +155,17 @@ $(function() {
         'algorithm_name': 'top_k_path',
         parameters: [
           {
-            key: 'x1',
-            value: $('#input-search input[name=x1]').val()
+            key: 'x',
+            value: $('#input-search input[name=x]').val()
           },
           {
-            key: 'x2',
-            value: $('#input-search input[name=x2]').val()
+            key: 'y',
+            value: $('#input-search input[name=y]').val()
           },
           {
-            key: 'y1',
-            value: $('#input-search input[name=y1]').val()
-          },
-             {
-            key: 'y2',
-            value: $('#input-search input[name=y2]').val()
-          },
+            key: 'size',
+            value: $('#input-search input[name=size]').val()
+          }
         ]
       }
       $.ajax('/pathsearch', {
@@ -149,7 +178,18 @@ $(function() {
           var section=document.createElement('section');
           section.className='subgraph';
           document.querySelector('body').appendChild(section);
-          subGraph($('section').get(1),data);
+          npmGraph($('section').get(1),data);
+          // // $('section').remove();
+          // var section=document.createElement('section');
+          // var density=document.createElement('section');
+          // section.className='subgraph';
+          // document.querySelector('body').appendChild(section);
+          // density.className='subdensity';
+          // document.querySelector('body').appendChild(density);
+          // heatmap($('section').get(0), initData);
+          // npmGraph($('section').get(1), data);
+          // // pathGraph($('section').get(0),data);
+
         },
         error: (error) => {
           alert("输入正确字符");
@@ -476,5 +516,47 @@ $(function() {
       $(".image-preview-filename").val(file.name);
     }
     reader.readAsText(file);
+  });
+});
+
+/////////////////////////////////
+$(function() {
+  var canvas = document.getElementsByTagName('canvas')[0];
+  var ctx = canvas.getContext('2d');
+  //Variables
+  var canvasx = $(canvas).offset().left;
+  var canvasy = $(canvas).offset().top;
+  var last_mousex = last_mousey = 0;
+  var mousex = mousey = 0;
+  var mousedown = false;
+
+  //Mousedown
+  $(canvas).on('mousedown', function(e) {
+      last_mousex = parseInt(e.clientX-canvasx);
+    last_mousey = parseInt(e.clientY-canvasy);
+      mousedown = true;
+  });
+
+  //Mouseup
+  $(canvas).on('mouseup', function(e) {
+      mousedown = false;
+  });
+
+  //Mousemove
+  $(canvas).on('mousemove', function(e) {
+      mousex = parseInt(e.clientX-canvasx);
+    mousey = parseInt(e.clientY-canvasy);
+      if(mousedown) {
+          ctx.clearRect(0,0,canvas.width,canvas.height); //clear canvas
+          ctx.beginPath();
+          var width = mousex-last_mousex;
+          var height = mousey-last_mousey;
+          ctx.rect(last_mousex,last_mousey,width,height);
+          ctx.strokeStyle = 'black';
+          ctx.lineWidth = 10;
+          ctx.stroke();
+      }
+      //Output
+      $('#output').html('current: '+mousex+', '+mousey+'<br/>last: '+last_mousex+', '+last_mousey+'<br/>mousedown: '+mousedown);
   });
 });

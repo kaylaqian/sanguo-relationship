@@ -31,6 +31,1488 @@
         {
           "property_name": "weight",
           "property_value": [
+            "39"
+          ]
+        }
+      ],
+      "source": "袁谭",
+      "target": "审配"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "37"
+          ]
+        }
+      ],
+      "source": "袁谭",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "32"
+          ]
+        }
+      ],
+      "source": "袁谭",
+      "target": "袁绍"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "26"
+          ]
+        }
+      ],
+      "source": "袁谭",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            "弟"
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "23"
+          ]
+        }
+      ],
+      "source": "袁谭",
+      "target": "袁熙"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "17"
+          ]
+        }
+      ],
+      "source": "袁谭",
+      "target": "刘表"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "袁谭",
+      "target": "辛评"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "袁谭",
+      "target": "吕旷"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "57"
+          ]
+        }
+      ],
+      "source": "沮授",
+      "target": "袁绍"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "25"
+          ]
+        }
+      ],
+      "source": "沮授",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "21"
+          ]
+        }
+      ],
+      "source": "沮授",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "57"
+          ]
+        }
+      ],
+      "source": "刘琦",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "44"
+          ]
+        }
+      ],
+      "source": "刘琦",
+      "target": "诸葛亮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "43"
+          ]
+        }
+      ],
+      "source": "刘琦",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "20"
+          ]
+        }
+      ],
+      "source": "刘琦",
+      "target": "刘表"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "18"
+          ]
+        }
+      ],
+      "source": "刘琦",
+      "target": "太史慈"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "刘琦",
+      "target": "蔡瑁"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "刘琦",
+      "target": "鲁肃"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "刘琦",
+      "target": "关羽"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "刘琦",
+      "target": "孙权"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "56"
+          ]
+        }
+      ],
+      "source": "夏侯霸",
+      "target": "姜维"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "49"
+          ]
+        }
+      ],
+      "source": "夏侯霸",
+      "target": "邓艾"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "41"
+          ]
+        }
+      ],
+      "source": "夏侯霸",
+      "target": "司马懿"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "23"
+          ]
+        }
+      ],
+      "source": "夏侯霸",
+      "target": "张翼"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "23"
+          ]
+        }
+      ],
+      "source": "夏侯霸",
+      "target": "陈泰"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "20"
+          ]
+        }
+      ],
+      "source": "夏侯霸",
+      "target": "司马师"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "20"
+          ]
+        }
+      ],
+      "source": "夏侯霸",
+      "target": "司马昭"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "夏侯霸",
+      "target": "夏侯威"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "夏侯霸",
+      "target": "诸葛亮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "11"
+          ]
+        }
+      ],
+      "source": "夏侯霸",
+      "target": "郭淮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "56"
+          ]
+        }
+      ],
+      "source": "牛辅",
+      "target": "吕布"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "50"
+          ]
+        }
+      ],
+      "source": "牛辅",
+      "target": "董卓"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "28"
+          ]
+        }
+      ],
+      "source": "牛辅",
+      "target": "王允"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "牛辅",
+      "target": "郭汜"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "牛辅",
+      "target": "樊稠"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "牛辅",
+      "target": "李肃"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "55"
+          ]
+        }
+      ],
+      "source": "黄祖",
+      "target": "甘宁"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            "主公"
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "46"
+          ]
+        }
+      ],
+      "source": "黄祖",
+      "target": "刘表"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "32"
+          ]
+        }
+      ],
+      "source": "黄祖",
+      "target": "孙权"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "20"
+          ]
+        }
+      ],
+      "source": "黄祖",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "19"
+          ]
+        }
+      ],
+      "source": "黄祖",
+      "target": "孙坚"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "18"
+          ]
+        }
+      ],
+      "source": "黄祖",
+      "target": "吕蒙"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "17"
+          ]
+        }
+      ],
+      "source": "黄祖",
+      "target": "程普"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "17"
+          ]
+        }
+      ],
+      "source": "黄祖",
+      "target": "孙策"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "黄祖",
+      "target": "周瑜"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "11"
+          ]
+        }
+      ],
+      "source": "黄祖",
+      "target": "张昭"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "55"
+          ]
+        }
+      ],
+      "source": "杨怀",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "44"
+          ]
+        }
+      ],
+      "source": "杨怀",
+      "target": "庞统"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "34"
+          ]
+        }
+      ],
+      "source": "杨怀",
+      "target": "高沛"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "54"
+          ]
+        }
+      ],
+      "source": "宋宪",
+      "target": "吕布"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "22"
+          ]
+        }
+      ],
+      "source": "宋宪",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "宋宪",
+      "target": "张飞"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "宋宪",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "54"
+          ]
+        }
+      ],
+      "source": "高翔",
+      "target": "司马懿"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "41"
+          ]
+        }
+      ],
+      "source": "高翔",
+      "target": "王平"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "40"
+          ]
+        }
+      ],
+      "source": "高翔",
+      "target": "诸葛亮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "34"
+          ]
+        }
+      ],
+      "source": "高翔",
+      "target": "魏延"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "27"
+          ]
+        }
+      ],
+      "source": "高翔",
+      "target": "马谡"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "高翔",
+      "target": "郭淮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "53"
+          ]
+        }
+      ],
+      "source": "钟会",
+      "target": "姜维"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "50"
+          ]
+        }
+      ],
+      "source": "钟会",
+      "target": "邓艾"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "48"
+          ]
+        }
+      ],
+      "source": "钟会",
+      "target": "司马昭"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "17"
+          ]
+        }
+      ],
+      "source": "钟会",
+      "target": "贾充"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "钟会",
+      "target": "许仪"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "11"
+          ]
+        }
+      ],
+      "source": "钟会",
+      "target": "张翼"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "53"
+          ]
+        }
+      ],
+      "source": "阿会喃",
+      "target": "诸葛亮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "52"
+          ]
+        }
+      ],
+      "source": "阿会喃",
+      "target": "董荼那"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "29"
+          ]
+        }
+      ],
+      "source": "阿会喃",
+      "target": "金环三结"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "29"
+          ]
+        }
+      ],
+      "source": "阿会喃",
+      "target": "赵云"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "26"
+          ]
+        }
+      ],
+      "source": "阿会喃",
+      "target": "魏延"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "21"
+          ]
+        }
+      ],
+      "source": "阿会喃",
+      "target": "王平"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "20"
+          ]
+        }
+      ],
+      "source": "阿会喃",
+      "target": "孟获"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "阿会喃",
+      "target": "马岱"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "阿会喃",
+      "target": "马忠"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "阿会喃",
+      "target": "关索"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "53"
+          ]
+        }
+      ],
+      "source": "董袭",
+      "target": "甘宁"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "52"
+          ]
+        }
+      ],
+      "source": "董袭",
+      "target": "孙权"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "47"
+          ]
+        }
+      ],
+      "source": "董袭",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
             "33"
           ]
         }
@@ -47569,6 +49051,5459 @@
         {
           "property_name": "weight",
           "property_value": [
+            "27"
+          ]
+        }
+      ],
+      "source": "徐盛",
+      "target": "张辽"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "22"
+          ]
+        }
+      ],
+      "source": "徐盛",
+      "target": "蒋钦"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "21"
+          ]
+        }
+      ],
+      "source": "徐盛",
+      "target": "陈武"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "19"
+          ]
+        }
+      ],
+      "source": "徐盛",
+      "target": "董袭"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "17"
+          ]
+        }
+      ],
+      "source": "徐盛",
+      "target": "鲁肃"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "徐盛",
+      "target": "乐进"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "徐盛",
+      "target": "牛金"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "徐盛",
+      "target": "曹真"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "徐盛",
+      "target": "李典"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "徐盛",
+      "target": "徐晃"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "徐盛",
+      "target": "关兴"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "徐盛",
+      "target": "程普"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "11"
+          ]
+        }
+      ],
+      "source": "徐盛",
+      "target": "曹洪"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "11"
+          ]
+        }
+      ],
+      "source": "徐盛",
+      "target": "潘璋"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            "主公"
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "92"
+          ]
+        }
+      ],
+      "source": "张昭",
+      "target": "孙权"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "78"
+          ]
+        }
+      ],
+      "source": "张昭",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "51"
+          ]
+        }
+      ],
+      "source": "张昭",
+      "target": "诸葛亮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "51"
+          ]
+        }
+      ],
+      "source": "张昭",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "31"
+          ]
+        }
+      ],
+      "source": "张昭",
+      "target": "周瑜"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "24"
+          ]
+        }
+      ],
+      "source": "张昭",
+      "target": "孙策"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "22"
+          ]
+        }
+      ],
+      "source": "张昭",
+      "target": "甘宁"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "22"
+          ]
+        }
+      ],
+      "source": "张昭",
+      "target": "鲁肃"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "19"
+          ]
+        }
+      ],
+      "source": "张昭",
+      "target": "顾雍"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "18"
+          ]
+        }
+      ],
+      "source": "张昭",
+      "target": "太史慈"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "张昭",
+      "target": "刘表"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "张昭",
+      "target": "周泰"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "张昭",
+      "target": "陆逊"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "11"
+          ]
+        }
+      ],
+      "source": "张昭",
+      "target": "黄祖"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            "主公"
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "91"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "孙权"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "72"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "周瑜"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "66"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "53"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "孙策"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "47"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "陈武"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "35"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "焦触"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "33"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "吕蒙"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "31"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "徐盛"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "29"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "张南"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "28"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "陆逊"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "27"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "董袭"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "25"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "甘宁"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "25"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "蒋钦"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "24"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "庞德"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "19"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "曹仁"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "17"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "步骘"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "崔琰"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "潘璋"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "王朗"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "文聘"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "丁奉"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "张昭"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "11"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "程普"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "11"
+          ]
+        }
+      ],
+      "source": "周泰",
+      "target": "曹洪"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "90"
+          ]
+        }
+      ],
+      "source": "陈登",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "66"
+          ]
+        }
+      ],
+      "source": "陈登",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "65"
+          ]
+        }
+      ],
+      "source": "陈登",
+      "target": "车胄"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "51"
+          ]
+        }
+      ],
+      "source": "陈登",
+      "target": "吕布"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "28"
+          ]
+        }
+      ],
+      "source": "陈登",
+      "target": "陈宫"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "27"
+          ]
+        }
+      ],
+      "source": "陈登",
+      "target": "张飞"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "27"
+          ]
+        }
+      ],
+      "source": "陈登",
+      "target": "关羽"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "18"
+          ]
+        }
+      ],
+      "source": "陈登",
+      "target": "糜竺"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "陈登",
+      "target": "陶谦"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "87"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "72"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "孟达"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "46"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "45"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "黄忠"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "39"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "诸葛亮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "29"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "曹丕"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "28"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "张飞"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "27"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "徐晃"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "27"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "曹仁"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "26"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "夏侯惇"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "25"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "许褚"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "25"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "庞统"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "24"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "魏延"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "23"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "赵云"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "关平"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "杨修"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "吴兰"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            "不满"
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "关羽"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "夏侯尚"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "曹彰"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "11"
+          ]
+        }
+      ],
+      "source": "刘封",
+      "target": "马超"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "87"
+          ]
+        }
+      ],
+      "source": "管亥",
+      "target": "孔融"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "33"
+          ]
+        }
+      ],
+      "source": "管亥",
+      "target": "太史慈"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "25"
+          ]
+        }
+      ],
+      "source": "管亥",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "管亥",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "87"
+          ]
+        }
+      ],
+      "source": "孔融",
+      "target": "管亥"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "68"
+          ]
+        }
+      ],
+      "source": "孔融",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "64"
+          ]
+        }
+      ],
+      "source": "孔融",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "44"
+          ]
+        }
+      ],
+      "source": "孔融",
+      "target": "太史慈"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "22"
+          ]
+        }
+      ],
+      "source": "孔融",
+      "target": "荀彧"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "19"
+          ]
+        }
+      ],
+      "source": "孔融",
+      "target": "陶谦"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "18"
+          ]
+        }
+      ],
+      "source": "孔融",
+      "target": "刘表"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "17"
+          ]
+        }
+      ],
+      "source": "孔融",
+      "target": "关羽"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "孔融",
+      "target": "袁绍"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "孔融",
+      "target": "公孙瓒"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "孔融",
+      "target": "张飞"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "86"
+          ]
+        }
+      ],
+      "source": "公孙瓒",
+      "target": "袁绍"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "76"
+          ]
+        }
+      ],
+      "source": "公孙瓒",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "48"
+          ]
+        }
+      ],
+      "source": "公孙瓒",
+      "target": "华雄"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "46"
+          ]
+        }
+      ],
+      "source": "公孙瓒",
+      "target": "吕布"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "42"
+          ]
+        }
+      ],
+      "source": "公孙瓒",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "39"
+          ]
+        }
+      ],
+      "source": "公孙瓒",
+      "target": "赵云"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "26"
+          ]
+        }
+      ],
+      "source": "公孙瓒",
+      "target": "董卓"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "19"
+          ]
+        }
+      ],
+      "source": "公孙瓒",
+      "target": "张飞"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "公孙瓒",
+      "target": "荀彧"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "公孙瓒",
+      "target": "颜良"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "公孙瓒",
+      "target": "孔融"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "11"
+          ]
+        }
+      ],
+      "source": "公孙瓒",
+      "target": "关羽"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "86"
+          ]
+        }
+      ],
+      "source": "颜良",
+      "target": "关羽"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "71"
+          ]
+        }
+      ],
+      "source": "颜良",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "65"
+          ]
+        }
+      ],
+      "source": "颜良",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "49"
+          ]
+        }
+      ],
+      "source": "颜良",
+      "target": "袁绍"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "颜良",
+      "target": "公孙瓒"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "颜良",
+      "target": "张辽"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "颜良",
+      "target": "程昱"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "颜良",
+      "target": "华雄"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "84"
+          ]
+        }
+      ],
+      "source": "陶谦",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "48"
+          ]
+        }
+      ],
+      "source": "陶谦",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "24"
+          ]
+        }
+      ],
+      "source": "陶谦",
+      "target": "糜竺"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "20"
+          ]
+        }
+      ],
+      "source": "陶谦",
+      "target": "夏侯惇"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "19"
+          ]
+        }
+      ],
+      "source": "陶谦",
+      "target": "孔融"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "18"
+          ]
+        }
+      ],
+      "source": "陶谦",
+      "target": "吕布"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "陶谦",
+      "target": "陈登"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "陶谦",
+      "target": "陈宫"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "陶谦",
+      "target": "荀彧"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "83"
+          ]
+        }
+      ],
+      "source": "王双",
+      "target": "诸葛亮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "24"
+          ]
+        }
+      ],
+      "source": "王双",
+      "target": "魏延"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "20"
+          ]
+        }
+      ],
+      "source": "王双",
+      "target": "王平"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "19"
+          ]
+        }
+      ],
+      "source": "王双",
+      "target": "曹真"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "王双",
+      "target": "廖化"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "王双",
+      "target": "孙礼"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "王双",
+      "target": "姜维"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "王双",
+      "target": "费耀"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "王双",
+      "target": "马岱"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "王双",
+      "target": "张苞"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "80"
+          ]
+        }
+      ],
+      "source": "廖化",
+      "target": "诸葛亮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "68"
+          ]
+        }
+      ],
+      "source": "廖化",
+      "target": "姜维"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            "同僚"
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "44"
+          ]
+        }
+      ],
+      "source": "廖化",
+      "target": "张翼"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "33"
+          ]
+        }
+      ],
+      "source": "廖化",
+      "target": "邓艾"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "32"
+          ]
+        }
+      ],
+      "source": "廖化",
+      "target": "关平"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "30"
+          ]
+        }
+      ],
+      "source": "廖化",
+      "target": "王平"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "25"
+          ]
+        }
+      ],
+      "source": "廖化",
+      "target": "司马懿"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "25"
+          ]
+        }
+      ],
+      "source": "廖化",
+      "target": "关羽"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "22"
+          ]
+        }
+      ],
+      "source": "廖化",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "19"
+          ]
+        }
+      ],
+      "source": "廖化",
+      "target": "魏延"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "廖化",
+      "target": "庞德"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "廖化",
+      "target": "马岱"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "廖化",
+      "target": "王双"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "廖化",
+      "target": "司马昭"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "廖化",
+      "target": "徐晃"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "11"
+          ]
+        }
+      ],
+      "source": "廖化",
+      "target": "曹真"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "76"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "57"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "徐盛"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "45"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "孙权"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "34"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "诸葛亮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "33"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "曹彰"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "33"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "许褚"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "30"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "张飞"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            "弟"
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "29"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "曹植"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "29"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "刘封"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "25"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "杨修"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "23"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "孟达"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "22"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "夏侯惇"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "22"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "曹真"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "21"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "马超"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "徐晃"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "吴兰"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "贾诩"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "贾充"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "11"
+          ]
+        }
+      ],
+      "source": "曹丕",
+      "target": "张辽"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "75"
+          ]
+        }
+      ],
+      "source": "夏侯尚",
+      "target": "黄忠"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "24"
+          ]
+        }
+      ],
+      "source": "夏侯尚",
+      "target": "夏侯渊"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "17"
+          ]
+        }
+      ],
+      "source": "夏侯尚",
+      "target": "韩浩"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "夏侯尚",
+      "target": "陈式"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "夏侯尚",
+      "target": "孟达"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "夏侯尚",
+      "target": "刘封"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            "主公"
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "74"
+          ]
+        }
+      ],
+      "source": "贾诩",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "50"
+          ]
+        }
+      ],
+      "source": "贾诩",
+      "target": "韩遂"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "43"
+          ]
+        }
+      ],
+      "source": "贾诩",
+      "target": "马超"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "30"
+          ]
+        }
+      ],
+      "source": "贾诩",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "25"
+          ]
+        }
+      ],
+      "source": "贾诩",
+      "target": "庞德"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "24"
+          ]
+        }
+      ],
+      "source": "贾诩",
+      "target": "刘表"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "23"
+          ]
+        }
+      ],
+      "source": "贾诩",
+      "target": "郭汜"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "23"
+          ]
+        }
+      ],
+      "source": "贾诩",
+      "target": "吕布"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "17"
+          ]
+        }
+      ],
+      "source": "贾诩",
+      "target": "樊稠"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "贾诩",
+      "target": "荀彧"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "贾诩",
+      "target": "曹丕"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "贾诩",
+      "target": "袁绍"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "74"
+          ]
+        }
+      ],
+      "source": "韩德",
+      "target": "赵云"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "韩德",
+      "target": "魏延"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "韩德",
+      "target": "诸葛亮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "韩德",
+      "target": "邓芝"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "73"
+          ]
+        }
+      ],
+      "source": "王允",
+      "target": "董卓"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "45"
+          ]
+        }
+      ],
+      "source": "王允",
+      "target": "吕布"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "35"
+          ]
+        }
+      ],
+      "source": "王允",
+      "target": "郭汜"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "28"
+          ]
+        }
+      ],
+      "source": "王允",
+      "target": "牛辅"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "王允",
+      "target": "樊稠"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "王允",
+      "target": "李肃"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "72"
+          ]
+        }
+      ],
+      "source": "孙礼",
+      "target": "诸葛亮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "26"
+          ]
+        }
+      ],
+      "source": "孙礼",
+      "target": "曹真"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "24"
+          ]
+        }
+      ],
+      "source": "孙礼",
+      "target": "郭淮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "20"
+          ]
+        }
+      ],
+      "source": "孙礼",
+      "target": "马岱"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "20"
+          ]
+        }
+      ],
+      "source": "孙礼",
+      "target": "司马懿"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "18"
+          ]
+        }
+      ],
+      "source": "孙礼",
+      "target": "张虎"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "孙礼",
+      "target": "王双"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "孙礼",
+      "target": "王平"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "孙礼",
+      "target": "张苞"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "孙礼",
+      "target": "魏延"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "70"
+          ]
+        }
+      ],
+      "source": "袁熙",
+      "target": "公孙康"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            "弟"
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "59"
+          ]
+        }
+      ],
+      "source": "袁熙",
+      "target": "袁尚"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "38"
+          ]
+        }
+      ],
+      "source": "袁熙",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "34"
+          ]
+        }
+      ],
+      "source": "袁熙",
+      "target": "袁绍"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "26"
+          ]
+        }
+      ],
+      "source": "袁熙",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "23"
+          ]
+        }
+      ],
+      "source": "袁熙",
+      "target": "袁谭"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "21"
+          ]
+        }
+      ],
+      "source": "袁熙",
+      "target": "夏侯惇"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "18"
+          ]
+        }
+      ],
+      "source": "袁熙",
+      "target": "郭嘉"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "17"
+          ]
+        }
+      ],
+      "source": "袁熙",
+      "target": "刘表"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "17"
+          ]
+        }
+      ],
+      "source": "袁熙",
+      "target": "张辽"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "袁熙",
+      "target": "审配"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "袁熙",
+      "target": "曹洪"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "70"
+          ]
+        }
+      ],
+      "source": "公孙康",
+      "target": "袁熙"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "50"
+          ]
+        }
+      ],
+      "source": "公孙康",
+      "target": "袁尚"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "20"
+          ]
+        }
+      ],
+      "source": "公孙康",
+      "target": "夏侯惇"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "20"
+          ]
+        }
+      ],
+      "source": "公孙康",
+      "target": "郭嘉"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "20"
+          ]
+        }
+      ],
+      "source": "公孙康",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "70"
+          ]
+        }
+      ],
+      "source": "丁奉",
+      "target": "周瑜"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "60"
+          ]
+        }
+      ],
+      "source": "丁奉",
+      "target": "徐盛"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "44"
+          ]
+        }
+      ],
+      "source": "丁奉",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "43"
+          ]
+        }
+      ],
+      "source": "丁奉",
+      "target": "诸葛亮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "27"
+          ]
+        }
+      ],
+      "source": "丁奉",
+      "target": "赵云"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "23"
+          ]
+        }
+      ],
+      "source": "丁奉",
+      "target": "曹仁"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "19"
+          ]
+        }
+      ],
+      "source": "丁奉",
+      "target": "陆逊"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "18"
+          ]
+        }
+      ],
+      "source": "丁奉",
+      "target": "蒋钦"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "17"
+          ]
+        }
+      ],
+      "source": "丁奉",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "丁奉",
+      "target": "牛金"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "丁奉",
+      "target": "甘宁"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "丁奉",
+      "target": "鲁肃"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "丁奉",
+      "target": "吕蒙"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "丁奉",
+      "target": "程普"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "丁奉",
+      "target": "周泰"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "11"
+          ]
+        }
+      ],
+      "source": "丁奉",
+      "target": "曹洪"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "68"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "姜维"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "60"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "邓艾"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "48"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "钟会"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "47"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "贾充"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "44"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "司马懿"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "40"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "司马师"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "20"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "夏侯霸"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "18"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "张翼"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "18"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "郭淮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "17"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "毋丘俭"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "17"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "徐质"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "孟达"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "廖化"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "马谡"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "文鸯"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "诸葛亮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "王业"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "11"
+          ]
+        }
+      ],
+      "source": "司马昭",
+      "target": "王平"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "67"
+          ]
+        }
+      ],
+      "source": "刘岱",
+      "target": "王忠"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "59"
+          ]
+        }
+      ],
+      "source": "刘岱",
+      "target": "张飞"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "37"
+          ]
+        }
+      ],
+      "source": "刘岱",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "30"
+          ]
+        }
+      ],
+      "source": "刘岱",
+      "target": "关羽"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "24"
+          ]
+        }
+      ],
+      "source": "刘岱",
+      "target": "袁绍"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "22"
+          ]
+        }
+      ],
+      "source": "刘岱",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "刘岱",
+      "target": "糜竺"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "67"
+          ]
+        }
+      ],
+      "source": "王忠",
+      "target": "刘岱"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "35"
+          ]
+        }
+      ],
+      "source": "王忠",
+      "target": "关羽"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "31"
+          ]
+        }
+      ],
+      "source": "王忠",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "27"
+          ]
+        }
+      ],
+      "source": "王忠",
+      "target": "张飞"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "19"
+          ]
+        }
+      ],
+      "source": "王忠",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "王忠",
+      "target": "袁绍"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "66"
+          ]
+        }
+      ],
+      "source": "陈武",
+      "target": "孙权"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "47"
+          ]
+        }
+      ],
+      "source": "陈武",
+      "target": "周泰"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "44"
+          ]
+        }
+      ],
+      "source": "陈武",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "38"
+          ]
+        }
+      ],
+      "source": "陈武",
+      "target": "孙策"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "25"
+          ]
+        }
+      ],
+      "source": "陈武",
+      "target": "太史慈"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "21"
+          ]
+        }
+      ],
+      "source": "陈武",
+      "target": "徐盛"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "21"
+          ]
+        }
+      ],
+      "source": "陈武",
+      "target": "吕蒙"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "20"
+          ]
+        }
+      ],
+      "source": "陈武",
+      "target": "甘宁"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "19"
+          ]
+        }
+      ],
+      "source": "陈武",
+      "target": "蒋钦"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "陈武",
+      "target": "庞德"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "陈武",
+      "target": "董袭"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
             "11"
           ]
         }
@@ -47689,6 +54624,1716 @@
       ],
       "source": "孙坚",
       "target": "祖茂"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "19"
+          ]
+        }
+      ],
+      "source": "孙坚",
+      "target": "黄祖"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            "麾下"
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "孙坚",
+      "target": "程普"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            "子"
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "11"
+          ]
+        }
+      ],
+      "source": "孙坚",
+      "target": "孙策"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            "主公"
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "64"
+          ]
+        }
+      ],
+      "source": "徐庶",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            "主公"
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "48"
+          ]
+        }
+      ],
+      "source": "徐庶",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "23"
+          ]
+        }
+      ],
+      "source": "徐庶",
+      "target": "程昱"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "63"
+          ]
+        }
+      ],
+      "source": "蒋琬",
+      "target": "诸葛亮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "17"
+          ]
+        }
+      ],
+      "source": "蒋琬",
+      "target": "马谡"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "蒋琬",
+      "target": "杨仪"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "蒋琬",
+      "target": "孟获"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "62"
+          ]
+        }
+      ],
+      "source": "伊籍",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "27"
+          ]
+        }
+      ],
+      "source": "伊籍",
+      "target": "蔡瑁"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "25"
+          ]
+        }
+      ],
+      "source": "伊籍",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "20"
+          ]
+        }
+      ],
+      "source": "伊籍",
+      "target": "诸葛亮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "11"
+          ]
+        }
+      ],
+      "source": "伊籍",
+      "target": "关羽"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "61"
+          ]
+        }
+      ],
+      "source": "淳于琼",
+      "target": "袁绍"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "49"
+          ]
+        }
+      ],
+      "source": "淳于琼",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "淳于琼",
+      "target": "审配"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "淳于琼",
+      "target": "高览"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "61"
+          ]
+        }
+      ],
+      "source": "李儒",
+      "target": "董卓"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "53"
+          ]
+        }
+      ],
+      "source": "李儒",
+      "target": "吕布"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "18"
+          ]
+        }
+      ],
+      "source": "李儒",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "李儒",
+      "target": "徐荣"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "李儒",
+      "target": "李肃"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "李儒",
+      "target": "袁绍"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "李儒",
+      "target": "华雄"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "60"
+          ]
+        }
+      ],
+      "source": "华雄",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "48"
+          ]
+        }
+      ],
+      "source": "华雄",
+      "target": "公孙瓒"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "37"
+          ]
+        }
+      ],
+      "source": "华雄",
+      "target": "祖茂"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "36"
+          ]
+        }
+      ],
+      "source": "华雄",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "36"
+          ]
+        }
+      ],
+      "source": "华雄",
+      "target": "袁绍"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "29"
+          ]
+        }
+      ],
+      "source": "华雄",
+      "target": "董卓"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "24"
+          ]
+        }
+      ],
+      "source": "华雄",
+      "target": "关羽"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "23"
+          ]
+        }
+      ],
+      "source": "华雄",
+      "target": "孙坚"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "17"
+          ]
+        }
+      ],
+      "source": "华雄",
+      "target": "李肃"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "华雄",
+      "target": "程普"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "华雄",
+      "target": "吕布"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "华雄",
+      "target": "李儒"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "华雄",
+      "target": "张飞"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "华雄",
+      "target": "颜良"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "华雄",
+      "target": "韩当"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "59"
+          ]
+        }
+      ],
+      "source": "袁尚",
+      "target": "袁熙"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "58"
+          ]
+        }
+      ],
+      "source": "袁尚",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "58"
+          ]
+        }
+      ],
+      "source": "袁尚",
+      "target": "审配"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "57"
+          ]
+        }
+      ],
+      "source": "袁尚",
+      "target": "袁谭"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "50"
+          ]
+        }
+      ],
+      "source": "袁尚",
+      "target": "公孙康"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "37"
+          ]
+        }
+      ],
+      "source": "袁尚",
+      "target": "袁绍"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "21"
+          ]
+        }
+      ],
+      "source": "袁尚",
+      "target": "刘表"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "20"
+          ]
+        }
+      ],
+      "source": "袁尚",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "19"
+          ]
+        }
+      ],
+      "source": "袁尚",
+      "target": "张辽"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "19"
+          ]
+        }
+      ],
+      "source": "袁尚",
+      "target": "徐晃"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "袁尚",
+      "target": "夏侯惇"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "14"
+          ]
+        }
+      ],
+      "source": "袁尚",
+      "target": "郭嘉"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "袁尚",
+      "target": "辛评"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "袁尚",
+      "target": "吕旷"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "11"
+          ]
+        }
+      ],
+      "source": "袁尚",
+      "target": "曹洪"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "58"
+          ]
+        }
+      ],
+      "source": "孟优",
+      "target": "诸葛亮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "54"
+          ]
+        }
+      ],
+      "source": "孟优",
+      "target": "孟获"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "58"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "曹休"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "53"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "诸葛亮"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            "主公"
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "45"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "孙权"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "38"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "徐盛"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "37"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "吕蒙"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "35"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "刘备"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "33"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "马良"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "28"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "周泰"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "27"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "贾逵"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "25"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "21"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "诸葛瑾"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "19"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "丁奉"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "19"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "傅彤"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "司马懿"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "张苞"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "太史慈"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "13"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "关兴"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "12"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "张昭"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "11"
+          ]
+        }
+      ],
+      "source": "陆逊",
+      "target": "吴班"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "58"
+          ]
+        }
+      ],
+      "source": "张英",
+      "target": "孙策"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "30"
+          ]
+        }
+      ],
+      "source": "张英",
+      "target": "太史慈"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "58"
+          ]
+        }
+      ],
+      "source": "樊稠",
+      "target": "韩遂"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "48"
+          ]
+        }
+      ],
+      "source": "樊稠",
+      "target": "曹操"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "40"
+          ]
+        }
+      ],
+      "source": "樊稠",
+      "target": "马超"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "39"
+          ]
+        }
+      ],
+      "source": "樊稠",
+      "target": "郭汜"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "22"
+          ]
+        }
+      ],
+      "source": "樊稠",
+      "target": "吕布"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "21"
+          ]
+        }
+      ],
+      "source": "樊稠",
+      "target": "马腾"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "19"
+          ]
+        }
+      ],
+      "source": "樊稠",
+      "target": "董卓"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "17"
+          ]
+        }
+      ],
+      "source": "樊稠",
+      "target": "贾诩"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "樊稠",
+      "target": "鲍信"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "16"
+          ]
+        }
+      ],
+      "source": "樊稠",
+      "target": "荀彧"
+    },
+    {
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            ""
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "15"
+          ]
+        }
+      ],
+      "source": "樊稠",
+      "target": "牛辅"
     },
     {
       "label": "relation",

@@ -254,7 +254,7 @@ function pathGraph(containingElement,data) {
             charm: charm,
             life: life,
             identity: leader,
-            symbolSize: symbolSize,
+            symbolSize: 15,
             itemStyle: {
               normal: {
                   color: colors[colorIndex]
@@ -295,12 +295,12 @@ function pathGraph(containingElement,data) {
             },
           };
         }),
-        label: {
-          normal: {
-            position: 'right',
-            show: true
-          }
-        },
+        // label: {
+        //   normal: {
+        //     position: 'right',
+        //     show: true
+        //   }
+        // },
         roam: true,
         // focusNodeAdjacency: true,
         legendHoverLink: true,

@@ -17,7 +17,7 @@ router.post('/', function(req, res, next) {
     //         res.contentType('application/json');
     //         res.send(java_response);
     //     });
-    res.end(fs.readFileSync('public/data/lujing3.json'));
+    res.end(fs.readFileSync('public/data/new.json'));
 });
 
 module.exports = router;

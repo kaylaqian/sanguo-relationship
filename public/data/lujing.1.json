@@ -24,6 +24,50 @@
         },
         {
             "color": [
+                38
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "20"
+                    ]
+                }
+            ],
+            "source": "马忠",
+            "target": "赵云"
+        },
+        {
+            "color": [
+                40
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "43"
+                    ]
+                }
+            ],
+            "source": "徐盛",
+            "target": "赵云"
+        },
+        {
+            "color": [
                 48
             ],
             "label": "relation",
@@ -153,6 +197,28 @@
             ],
             "source": "丁奉",
             "target": "赵云"
+        },
+        {
+            "color": [
+                45
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "47"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "关索"
         },
         {
             "color": [
@@ -1239,6 +1305,28 @@
         },
         {
             "color": [
+                45
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "12"
+                    ]
+                }
+            ],
+            "source": "关索",
+            "target": "赵云"
+        },
+        {
+            "color": [
                 20
             ],
             "label": "relation",
@@ -1371,6 +1459,28 @@
         },
         {
             "color": [
+                40
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "48"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "徐盛"
+        },
+        {
+            "color": [
                 39
             ],
             "label": "relation",
@@ -1412,6 +1522,28 @@
             ],
             "source": "诸葛亮",
             "target": "简雍"
+        },
+        {
+            "color": [
+                38
+            ],
+            "label": "relation",
+            "properties": [
+                {
+                    "property_name": "relation",
+                    "property_value": [
+                        ""
+                    ]
+                },
+                {
+                    "property_name": "weight",
+                    "property_value": [
+                        "105"
+                    ]
+                }
+            ],
+            "source": "诸葛亮",
+            "target": "马忠"
         },
         {
             "color": [
@@ -2876,6 +3008,14 @@
                 "target": "诸葛亮"
             },
             {
+                "source": "诸葛亮",
+                "target": "马忠"
+            },
+            {
+                "source": "马忠",
+                "target": "赵云"
+            },
+            {
                 "source": "赵云",
                 "target": "程武"
             }
@@ -2902,6 +3042,14 @@
             {
                 "source": "张承",
                 "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "徐盛"
+            },
+            {
+                "source": "徐盛",
+                "target": "赵云"
             },
             {
                 "source": "赵云",
@@ -2984,6 +3132,14 @@
             {
                 "source": "张承",
                 "target": "诸葛亮"
+            },
+            {
+                "source": "诸葛亮",
+                "target": "关索"
+            },
+            {
+                "source": "关索",
+                "target": "赵云"
             },
             {
                 "source": "赵云",

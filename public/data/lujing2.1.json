@@ -24,6 +24,28 @@
     },
     {
       "color": [
+        2
+      ],
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            "\r"
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "412"
+          ]
+        }
+      ],
+      "source": "曹操",
+      "target": "孙权"
+    },
+    {
+      "color": [
         3
       ],
       "label": "relation",
@@ -43,6 +65,28 @@
       ],
       "source": "曹操",
       "target": "袁绍"
+    },
+    {
+      "color": [
+        5
+      ],
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            "\r"
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "173"
+          ]
+        }
+      ],
+      "source": "曹操",
+      "target": "赵云"
     },
     {
       "color": [
@@ -285,6 +329,28 @@
       ],
       "source": "刘备",
       "target": "曹仁"
+    },
+    {
+      "color": [
+        5
+      ],
+      "label": "relation",
+      "properties": [
+        {
+          "property_name": "relation",
+          "property_value": [
+            "主公\r"
+          ]
+        },
+        {
+          "property_name": "weight",
+          "property_value": [
+            "398"
+          ]
+        }
+      ],
+      "source": "赵云",
+      "target": "刘备"
     },
     {
       "color": [
