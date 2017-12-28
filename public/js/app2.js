@@ -14,7 +14,7 @@ var press = false;
 // The mousedown event is fired when a pointing device button (usually a mouse button) is pressed on an element.
 document.addEventListener('mousedown', function(e) {
    press = true;
-   console.log('--> Event mousedown x: ' + e.clientX + ', y: ' + e.clientY);
+  //  console.log('--> Event mousedown x: ' + e.clientX + ', y: ' + e.clientY);
 });
 
 // The mousemove event is fired when a pointing device (usually a mouse) is moved while over an element.
@@ -26,7 +26,7 @@ document.addEventListener('mousemove', function(e) {
 // The mouseup event is fired when a pointing device button (usually a mouse button) is released over an element.
 document.addEventListener('mouseup', function(e) {
    press = false;
-   console.log('--> Event mouseup x: ' + e.clientX + ', y: ' + e.clientY);
+  //  console.log('--> Event mouseup x: ' + e.clientX + ', y: ' + e.clientY);
 });
 
 /////////////////////////////////////////////////////////////////////////////////////////
@@ -519,9 +519,10 @@ $(function() {
   });
 });
 
-/////////////////////////////////
-$(function() {
-  var canvas = document.getElementsByTagName('canvas')[0];
+// /////////////////////////////////
+setTimeout(show, 5000);
+function show() {
+  var canvas = document.getElementsByTagName('canvas')[1];
   var ctx = canvas.getContext('2d');
   //Variables
   var canvasx = $(canvas).offset().left;
@@ -532,9 +533,9 @@ $(function() {
 
   //Mousedown
   $(canvas).on('mousedown', function(e) {
-      last_mousex = parseInt(e.clientX-canvasx);
+    last_mousex = parseInt(e.clientX-canvasx);
     last_mousey = parseInt(e.clientY-canvasy);
-      mousedown = true;
+    mousedown = true;
   });
 
   //Mouseup
@@ -545,18 +546,32 @@ $(function() {
   //Mousemove
   $(canvas).on('mousemove', function(e) {
       mousex = parseInt(e.clientX-canvasx);
-    mousey = parseInt(e.clientY-canvasy);
+      mousey = parseInt(e.clientY-canvasy);
+      // console.log('--> Event mouseup x: ' + mousex + ', y: ' + mousey);
       if(mousedown) {
           ctx.clearRect(0,0,canvas.width,canvas.height); //clear canvas
           ctx.beginPath();
           var width = mousex-last_mousex;
           var height = mousey-last_mousey;
           ctx.rect(last_mousex,last_mousey,width,height);
-          ctx.strokeStyle = 'black';
-          ctx.lineWidth = 10;
+          var imgData = ctx.getImageData(last_mousex,last_mousey,width,height),
+          data = imgData.data;
+          for( var i = 0; i < data.length; i += 4 ) {
+            data[i] = 255 - data[i];
+            data[i+1] = 255 - data[i+1];
+            data[i+2] = 255 - data[i+2];
+          }
+          ctx.strokeStyle = 'white';
+          ctx.lineWidth = 2;
           ctx.stroke();
+          ctx.putImageData(imgData, width, height);
+
       }
-      //Output
-      $('#output').html('current: '+mousex+', '+mousey+'<br/>last: '+last_mousex+', '+last_mousey+'<br/>mousedown: '+mousedown);
   });
-});
+}
+
+
+
+
+
+
