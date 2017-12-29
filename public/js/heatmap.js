@@ -48,7 +48,7 @@ function heatmap(containingElement, data) {
 }
 function generateData(theta, min, max) {
   var data = [];
-  // var noise = getNoiseHelper();
+  // var noise = getNoiseHelper(); 年纪，
   // noise.seed(Math.random());
   for(var i = 0; i <=80 ; i++) {
     for(var j = 45; j >= 0; j--) {
@@ -77,59 +77,4 @@ function getDensity(width, height) {
 }
 
 ////////////////////////////////
-
-setTimeout(show, 5000);
-function show() {
-  var canvas = document.getElementsByTagName('canvas')[1];
-  var ctx = canvas.getContext('2d');
-  //Variables
-  var canvasx = $(canvas).offset().left;
-  var canvasy = $(canvas).offset().top;
-  var last_mousex = last_mousey = 0;
-  var mousex = mousey = 0;
-  var mousedown = false;
-
-  //Mousedown
-  $(canvas).on('mousedown', function(e) {
-    last_mousex = parseInt(e.clientX-canvasx);
-    last_mousey = parseInt(e.clientY-canvasy);
-    mousedown = true;
-  });
-
-  //Mouseup
-  $(canvas).on('mouseup', function(e) {
-      mousedown = false;
-  });
-
-  //Mousemove
-  $(canvas).on('mousemove', function(e) {
-      mousex = parseInt(e.clientX-canvasx);
-      mousey = parseInt(e.clientY-canvasy);
-      // console.log('--> Event mouseup x: ' + mousex + ', y: ' + mousey);
-      if(mousedown) {
-          ctx.clearRect(0,0,canvas.width,canvas.height); //clear canvas
-          ctx.beginPath();
-          var width = mousex-last_mousex;
-          var height = mousey-last_mousey;
-          ctx.rect(last_mousex,last_mousey,width,height);
-          var imgData = ctx.getImageData(last_mousex,last_mousey,width,height),
-          data = imgData.data;
-          for( var i = 0; i < data.length; i += 4 ) {
-            data[i] = 255 - data[i];
-            data[i+1] = 255 - data[i+1];
-            data[i+2] = 255 - data[i+2];
-          }
-          ctx.strokeStyle = 'white';
-          ctx.lineWidth = 2;
-          ctx.stroke();
-          ctx.putImageData(imgData, width, height);
-
-      }
-      //Output
-      // console.log('color: ' + data);
-      // $('canvas').html('current: '+mousex+', '+mousey+'<br/>last: '+last_mousex+', '+last_mousey+'<br/>mousedown: '+mousedown);
-  });
-}
-
-
 

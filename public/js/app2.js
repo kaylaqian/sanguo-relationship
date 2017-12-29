@@ -14,7 +14,7 @@ var press = false;
 // The mousedown event is fired when a pointing device button (usually a mouse button) is pressed on an element.
 document.addEventListener('mousedown', function(e) {
    press = true;
-  //  console.log('--> Event mousedown x: ' + e.clientX + ', y: ' + e.clientY);
+   console.log('--> Event mousedown x: ' + e.clientX + ', y: ' + e.clientY);
 });
 
 // The mousemove event is fired when a pointing device (usually a mouse) is moved while over an element.
@@ -104,6 +104,41 @@ $(function() {
       // webkit($('section').get(0), initData);
       // npmGraph($('section').get(0), initData);
       // initGraph($('section').get(0), initData);
+      var canvas = document.getElementsByTagName('canvas')[0];
+      var ctx = canvas.getContext('2d');
+      //Variables
+      var canvasx = $(canvas).offset().left;
+      var canvasy = $(canvas).offset().top;
+      var last_mousex = last_mousey = 0;
+      var mousex = mousey = 0;
+      var mousedown = false;
+      //Mousedown
+      $(canvas).on('mousedown', function(e) {
+        last_mousex = parseInt(e.clientX-canvasx);
+        last_mousey = parseInt(e.clientY-canvasy);
+        mousedown = true;
+      });
+      //Mouseup
+      $(canvas).on('mouseup', function(e) {
+        mousedown = false;
+      });
+      //Mousemove
+      $(canvas).on('mousemove', function(e) {
+        mousex = parseInt(e.clientX-canvasx);
+        mousey = parseInt(e.clientY-canvasy);
+        console.log('--> Event mouseup x: ' + mousex + ', y: ' + mousey);
+        if(mousedown) {
+          console.log('true');
+          ctx.clearRect(0,0,canvas.width,canvas.height); //clear canvas
+          ctx.beginPath();
+          var width = mousex-last_mousex;
+          var height = mousey-last_mousey;
+          ctx.rect(last_mousex,last_mousey,width,height);
+          ctx.strokeStyle = 'white';
+          ctx.lineWidth = 10;
+          ctx.stroke();
+        }
+      });
     },
     error: (error) => {
       console.log(error.message);
@@ -179,17 +214,17 @@ $(function() {
           section.className='subgraph';
           document.querySelector('body').appendChild(section);
           npmGraph($('section').get(1),data);
-          // // $('section').remove();
-          // var section=document.createElement('section');
-          // var density=document.createElement('section');
-          // section.className='subgraph';
-          // document.querySelector('body').appendChild(section);
-          // density.className='subdensity';
-          // document.querySelector('body').appendChild(density);
-          // heatmap($('section').get(0), initData);
-          // npmGraph($('section').get(1), data);
-          // // pathGraph($('section').get(0),data);
-
+          var canvas = document.getElementsByTagName('canvas')[0];
+          var ctx = canvas.getContext('2d');
+          var imgData = ctx.getImageData(600,600,100,100);
+          data = imgData.data;
+          // console.log('data' + data);
+          for( var i = 0; i < data.length; i += 4 ) {
+            data[i] = 255 - data[i];
+            data[i+1] = 255 - data[i+1];
+            data[i+2] = 255 - data[i+2];
+          }
+          ctx.putImageData(imgData, 660, 343);
         },
         error: (error) => {
           alert("输入正确字符");
@@ -520,55 +555,7 @@ $(function() {
 });
 
 // /////////////////////////////////
-setTimeout(show, 5000);
-function show() {
-  var canvas = document.getElementsByTagName('canvas')[1];
-  var ctx = canvas.getContext('2d');
-  //Variables
-  var canvasx = $(canvas).offset().left;
-  var canvasy = $(canvas).offset().top;
-  var last_mousex = last_mousey = 0;
-  var mousex = mousey = 0;
-  var mousedown = false;
 
-  //Mousedown
-  $(canvas).on('mousedown', function(e) {
-    last_mousex = parseInt(e.clientX-canvasx);
-    last_mousey = parseInt(e.clientY-canvasy);
-    mousedown = true;
-  });
-
-  //Mouseup
-  $(canvas).on('mouseup', function(e) {
-      mousedown = false;
-  });
-
-  //Mousemove
-  $(canvas).on('mousemove', function(e) {
-      mousex = parseInt(e.clientX-canvasx);
-      mousey = parseInt(e.clientY-canvasy);
-      // console.log('--> Event mouseup x: ' + mousex + ', y: ' + mousey);
-      if(mousedown) {
-          ctx.clearRect(0,0,canvas.width,canvas.height); //clear canvas
-          ctx.beginPath();
-          var width = mousex-last_mousex;
-          var height = mousey-last_mousey;
-          ctx.rect(last_mousex,last_mousey,width,height);
-          var imgData = ctx.getImageData(last_mousex,last_mousey,width,height),
-          data = imgData.data;
-          for( var i = 0; i < data.length; i += 4 ) {
-            data[i] = 255 - data[i];
-            data[i+1] = 255 - data[i+1];
-            data[i+2] = 255 - data[i+2];
-          }
-          ctx.strokeStyle = 'white';
-          ctx.lineWidth = 2;
-          ctx.stroke();
-          ctx.putImageData(imgData, width, height);
-
-      }
-  });
-}
 
 
 
