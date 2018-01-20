@@ -22,7 +22,7 @@ router.post('/', function(req, res, next) {
     // res.end(fs.readFileSync('public/data/position.json'));
 
     // res.end(fs.readFileSync('public/data/webkit-dep.json'));
-    res.end(fs.readFileSync('public/data/npm.json'));
+    res.end(fs.readFileSync('public/data/heatmap.json'));
 
 
 });

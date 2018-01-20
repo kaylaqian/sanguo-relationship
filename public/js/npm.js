@@ -27,12 +27,12 @@ function npmGraph(containingElement, data) {
                       }
                   };
               }),
-              edges: data.edges.map(function (edge) {
-                  return {
-                      source: edge.sourceID,
-                      target: edge.targetID
-                  };
-              }),
+              // edges: data.edges.map(function (edge) {
+              //     return {
+              //         source: edge.sourceID,
+              //         target: edge.targetID
+              //     };
+              // }),
               label: {
                   emphasis: {
                       position: 'right',

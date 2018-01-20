@@ -3,16 +3,15 @@ var yData = [];
 var x = [];
 var y = [];
 function heatmap(containingElement, data) {
-  data.nodes.forEach(function(node) {
-    x.push(node.x);
-  });
-  data.nodes.forEach(function(node) {
-    y.push(node.y);
-  });
-  // var myChart = echarts.init(containingElement);
+  // data.forEach(function(node) {
+  //   x.push(node.x);
+  // });
+  // data.nodes.forEach(function(node) {
+  //   y.push(node.y);
+  // });
+
   var myChart = echarts.init(containingElement);
   // myChart.showLoading();
-  var data = generateData(2, -5, 5);
   myChart.setOption(option = {
       xAxis: {
           type: 'category',
@@ -46,35 +45,38 @@ function heatmap(containingElement, data) {
 
   });
 }
-function generateData(theta, min, max) {
-  var data = [];
-  // var noise = getNoiseHelper(); 年纪，
-  // noise.seed(Math.random());
-  for(var i = 0; i <=80 ; i++) {
-    for(var j = 45; j >= 0; j--) {
-      data.push([i, j, getDensity(i, j)]);
-    }
-  }
-  for(var i = 0; i <=80 ; i++) {
-    xData.push(i);
-  }
-  for (var j = 45; j >= 0; j--) {
-    yData.push(j);
-  }
-  return data;
-}
+// function generateData(theta, min, max) {
+//   var data = [];
+//   // var noise = getNoiseHelper();
+//   // noise.seed(Math.random());
+//   for(var i = 0; i <=86 ; i++) {
+//     for(var j = 0; j <=60; j++) {
+//       // data.push([i, j, data[i][j]);
+//     }
+//   }
+//   for(var i = 0; i <=86 ; i++) {
+//     xData.push(i);
+//   }
+//   for (var j =0; j<=60;j++) {
+//     yData.push(j);
+//   }
+//   return data;
+// }
 
-function getDensity(width, height) {
-  var density = 0;
-  for(var i = 0, j = 0; i < x.length, j < y.length; i++, j++) {
-    if(width >0 && height > 0) {
-      if((x[i] + 2500)/80 <= width && (x[i] + 2500) /80 > width-1 && (y[j] + 1500) /45 <= height && (y[j] + 1500)/45 > height-1) {
-        density++;
-      }
-    }
-  }
-  return density;
-}
+// function getDensity(width, height) {
+//   var density = 0;
+//   for(var i = 0, j = 0; i < x.length, j < y.length; i++, j++) {
+//     if(width >0 && height > 0) {
+//       if((x[i] + 2500)/80 <= width && (x[i] + 2500) /80 > width-1 && (y[j] + 1500) /45 <= height && (y[j] + 1500)/45 > height-1) {
+//         density++;
+//       }
+//     }
+//   }
+//   return density;
+// }
 
 ////////////////////////////////
+
+
+
 
