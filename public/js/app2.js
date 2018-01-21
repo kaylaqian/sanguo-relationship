@@ -98,13 +98,12 @@ $(function() {
     success: data => {
       console.log(data);
       initData = data;
-      // $('section').remove();
-      // $('body').append('<section class="graph"></section>');
-      // heatmap($('section').get(0), initData);
       heatmap_d3(initData);
       // npmGraph($('section').get(0), initData);
       // initGraph($('section').get(0), initData);
       var canvas = document.getElementById('canvas-zoom');
+      canvas.width = 1000;
+      canvas.height = 700;
       var context = canvas.getContext('2d');
       var canvasX = $(canvas).offset().left;
       var canvasY = $(canvas).offset().top;
@@ -122,23 +121,63 @@ $(function() {
       });
       //Mousemove
       $(canvas).on('mousemove', function(e) {
-        if (!mousedown) {
-          return;
-        }
-        context.beginPath();
-        context.clearRect(0, 0, canvas.width, canvas.height);
-        context.closePath();
         endX = parseInt(e.clientX - canvasX);
         endY = parseInt(e.clientY - canvasY);
-        context.beginPath();
-        context.fillStyle = 'transparent';
-        context.rect(beginX, beginY, endX - beginX, endY - beginY);
-        console.log('beginX: ' + beginX);
-        context.lineWidth = 1;
-        context.strokeStyle = 'red';
-        context.stroke();
+        if (mousedown) {
+
+          $('.subgraph').remove();
+          context.beginPath();
+          context.clearRect(0, 0, canvas.width, canvas.height);
+          context.closePath();
+          context.beginPath();
+          context.rect(beginX, beginY, (endX - beginX), (endY - beginY));
+          // context.rect(beginX, beginY, (endX - beginX), (endY - beginY));
+          console.log('beginX: '+ beginX + ' ,beginY: ' + beginY + ', endX :' + endX + 'endY :' + endY);
+          // context.translate(2, 2);
+          context.lineWidth = 2;
+          context.strokeStyle = '#04fbb6';
+          context.stroke();
+          context.closePath();
+          const coord = {};
+          coord.coord =[
+            {'beginX' :beginX},
+            {'beginY': beginY},
+            {'endX': endX},
+            {'endY': endY}
+          ]
+          $.ajax('/pathsearch', {
+            method: 'POST',
+            data: JSON.stringify(coord),
+            dataType: 'json',
+            contentType: 'application/json',
+            success: data => {
+              console.log(coord);
+              var section=document.createElement('section');
+              section.className='subgraph';
+              document.querySelector('body').appendChild(section);
+              var subgraph = document.getElementsByClassName('subgraph')[0];
+              subgraph.style.left = endX + 'px';
+              subgraph.style.top =  endY  + 'px';
+              subgraph.style.width = '500px';
+              subgraph.style.heigth = '400px';
+              npmGraph($('section').get(1),data);
+              // var subCanvas = subgraph.getElementsByTagName('canvas');
+              // canvas.addEventListener('click', function(event) {
+              //   subgraph.style.left = endX + 'px';
+              //   subgraph.style.top =  endY  + 'px';
+              //   subgraph.style.width = '1000px';
+              //   subgraph.style.heigth = '800px';
+              //   npmGraph($('canvas').get(0),data);
+              // });
+            },
+            error: (error) => {
+              alert("输入正确字符");
+              console.log(error.message);
+            }
+          });
+        }
       });
-    },
+     },
     error: (error) => {
       console.log(error.message);
     }
@@ -182,48 +221,27 @@ $(function() {
       });
       //subgraph
     } else if ($(this.parentNode.parentNode).prop('id') == 'input-search') {
-      const data = {};
-      data.command = 'algorithm';
-      data['algorithm_command'] = {
-        'graph_name': 'sanguo',
-        'algorithm_name': 'top_k_path',
-        parameters: [
-          {
-            key: 'x',
-            value: $('#input-search input[name=x]').val()
-          },
-          {
-            key: 'y',
-            value: $('#input-search input[name=y]').val()
-          },
-          {
-            key: 'size',
-            value: $('#input-search input[name=size]').val()
-          }
-        ]
-      }
+      const coord = {};
+      var beginX = parseFloat($('#input-search input[name=x1]').val());
+      var beginY = parseFloat($('#input-search input[name=y1]').val());
+      var endX = parseFloat($('#input-search input[name=x2]').val());
+      var endY = parseFloat($('#input-search input[name=y2]').val());
+      coord.coord =[
+        {'beginX' : beginX},
+        {'beginY': beginY},
+        {'endX': endX},
+        {'endY': endY}
+      ]
       $.ajax('/pathsearch', {
         method: 'POST',
-        data: JSON.stringify(data),
+        data: JSON.stringify(coord),
         dataType: 'json',
         contentType: 'application/json',
         success: data => {
-          console.log(data);
-          var section=document.createElement('section');
-          section.className='subgraph';
-          document.querySelector('body').appendChild(section);
-          npmGraph($('section').get(1),data);
-          var canvas = document.getElementsByTagName('canvas')[1];
-          var ctx = canvas.getContext('2d');
-          var imgData = ctx.getImageData(600,600,100,100);
-          data = imgData.data;
-          // console.log('data' + data);
-          for( var i = 0; i < data.length; i += 4 ) {
-            data[i] = 255 - data[i];
-            data[i+1] = 255 - data[i+1];
-            data[i+2] = 255 - data[i+2];
-          }
-          ctx.putImageData(imgData, 660, 343);
+          console.log(coord);
+          $('section').remove();
+          $('body').append('<section class="graph"></section>');
+          npmGraph($('section').get(0),data);
         },
         error: (error) => {
           alert("输入正确字符");

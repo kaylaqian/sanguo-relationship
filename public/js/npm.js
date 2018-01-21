@@ -3,9 +3,6 @@ function npmGraph(containingElement, data) {
   myChart.showLoading();
   myChart.hideLoading();
   myChart.setOption(option = {
-      title: {
-          text: 'NPM Dependencies'
-      },
       animationDurationUpdate: 1500,
       animationEasingUpdate: 'quinticInOut',
       series : [
@@ -19,20 +16,20 @@ function npmGraph(containingElement, data) {
                       y: node.y,
                       id: node.id,
                       name: node.label,
-                      symbolSize: 15,
+                      symbolSize: 8,
                       itemStyle: {
                           normal: {
-                              color: '#04fbb6'
+                              color: node.color
                           }
                       }
                   };
               }),
-              // edges: data.edges.map(function (edge) {
-              //     return {
-              //         source: edge.sourceID,
-              //         target: edge.targetID
-              //     };
-              // }),
+              edges: data.edges.map(function (edge) {
+                  return {
+                      source: edge.sourceID,
+                      target: edge.targetID
+                  };
+              }),
               label: {
                   emphasis: {
                       position: 'right',

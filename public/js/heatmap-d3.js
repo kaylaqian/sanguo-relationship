@@ -11,8 +11,9 @@ function heatmap_d3(heatmap) {
     canvasDim[X] = canvasDim[Y] / heatmapAspect;
 
   var color = d3.scale.linear()
-    .domain([95, 105, 110, 130, 135, 145])
-    .range(["#0a0", "#6c0", "#ee0", "#eb4", "#eb9", "#fff"]);
+    .domain([95, 105, 110, 130, 135, 195])
+    .range(["#440457", "#38578b", "#248a8d", "#37c58c", "#aadb32", "#feec07"]
+  );
 
   var canvas = document.getElementById('canvas');
   canvas.width = 1000;
@@ -31,7 +32,6 @@ function heatmap_d3(heatmap) {
       image.data[++p] = 255;
     }
   }
-
   createImageBitmap(image, 0, 0, heatmapDim[X], heatmapDim[Y]).then(function(bitmap) {
     context.drawImage(bitmap, 0, 0, canvas.width, canvas.height);
   });
