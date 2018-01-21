@@ -104,6 +104,40 @@ $(function() {
       heatmap_d3(initData);
       // npmGraph($('section').get(0), initData);
       // initGraph($('section').get(0), initData);
+      var canvas = document.getElementById('canvas-zoom');
+      var context = canvas.getContext('2d');
+      var canvasX = $(canvas).offset().left;
+      var canvasY = $(canvas).offset().top;
+      var beginX = beginY = 0;
+      var endX = endY = 0;
+      var mousedown = false;
+      $(canvas).on('mousedown', function(e) {
+        beginX = parseInt(e.clientX - canvasX);
+        beginY = parseInt(e.clientY - canvasY);
+        mousedown = true;
+      });
+      //Mouseup
+      $(canvas).on('mouseup', function(e) {
+        mousedown = false;
+      });
+      //Mousemove
+      $(canvas).on('mousemove', function(e) {
+        if (!mousedown) {
+          return;
+        }
+        context.beginPath();
+        context.clearRect(0, 0, canvas.width, canvas.height);
+        context.closePath();
+        endX = parseInt(e.clientX - canvasX);
+        endY = parseInt(e.clientY - canvasY);
+        context.beginPath();
+        context.fillStyle = 'transparent';
+        context.rect(beginX, beginY, endX - beginX, endY - beginY);
+        console.log('beginX: ' + beginX);
+        context.lineWidth = 1;
+        context.strokeStyle = 'red';
+        context.stroke();
+      });
     },
     error: (error) => {
       console.log(error.message);

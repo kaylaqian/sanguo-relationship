@@ -20,6 +20,16 @@ html, body, aside, .graph{
   height: 100%;
 }
 
+.graph {
+  position: relative;
+  text-align: center;
+}
+
+.graph canvas {
+  display: block;
+  margin: 0 auto;
+}
+
 h1, h2, h3, h4, h5, h6, b, strong {
   font-family: SZSansRegular, Helvetica, Arial, sans-serif;
   font-weight: normal;
@@ -111,37 +121,6 @@ a {
   top: 28px;
   font-size: 2em;
   text-align: center;
-}
-
-aside {
-  width: 400px;
-  position: absolute;
-  background-color: #f2f2f2;
-  border-right: 1px solid #ececec;
-  padding: 2em 1.5em;
-  -webkit-transition: left .15s ease;
-  transition: left .15s ease;
-
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-pack: start;
-  -webkit-justify-content: flex-start;
-  -ms-flex-pack: start;
-  justify-content: flex-start;
-  -webkit-box-align: stretch;
-  -webkit-align-items: stretch;
-  -ms-flex-align: stretch;
-  align-items: stretch;
-  -webkit-align-content: stretch;
-  -ms-flex-line-pack: stretch;
-  align-content: stretch;
 }
 
 .info img {
@@ -651,3 +630,17 @@ div#info-popup {
   stroke: #fff;
   stroke-width: 1.5px;
 }
+
+#canvas {
+  /* width: 100%;
+  height: 100%; */
+}
+
+#canvas-zoom {
+  width: 1000px;
+  height: 700px;
+  top: -700px;
+  position: relative;
+}
+
+
